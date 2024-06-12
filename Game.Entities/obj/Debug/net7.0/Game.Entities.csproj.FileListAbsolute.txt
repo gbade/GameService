@@ -1,0 +1,11 @@
+C:\Users\mahyo\source\repos\GameService\Game.Entities\bin\Debug\net7.0\Game.Entities.deps.json
+C:\Users\mahyo\source\repos\GameService\Game.Entities\bin\Debug\net7.0\Game.Entities.dll
+C:\Users\mahyo\source\repos\GameService\Game.Entities\bin\Debug\net7.0\Game.Entities.pdb
+C:\Users\mahyo\source\repos\GameService\Game.Entities\obj\Debug\net7.0\Game.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahyo\source\repos\GameService\Game.Entities\obj\Debug\net7.0\Game.Entities.AssemblyInfoInputs.cache
+C:\Users\mahyo\source\repos\GameService\Game.Entities\obj\Debug\net7.0\Game.Entities.AssemblyInfo.cs
+C:\Users\mahyo\source\repos\GameService\Game.Entities\obj\Debug\net7.0\Game.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mahyo\source\repos\GameService\Game.Entities\obj\Debug\net7.0\Game.Entities.dll
+C:\Users\mahyo\source\repos\GameService\Game.Entities\obj\Debug\net7.0\refint\Game.Entities.dll
+C:\Users\mahyo\source\repos\GameService\Game.Entities\obj\Debug\net7.0\Game.Entities.pdb
+C:\Users\mahyo\source\repos\GameService\Game.Entities\obj\Debug\net7.0\ref\Game.Entities.dll

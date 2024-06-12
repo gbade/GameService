@@ -1,0 +1,17 @@
+C:\Users\mahyo\source\repos\GameService\Game.Services\bin\Debug\net7.0\Game.Core.deps.json
+C:\Users\mahyo\source\repos\GameService\Game.Services\bin\Debug\net7.0\Game.Core.dll
+C:\Users\mahyo\source\repos\GameService\Game.Services\bin\Debug\net7.0\Game.Core.pdb
+C:\Users\mahyo\source\repos\GameService\Game.Services\bin\Debug\net7.0\Game.Application.dll
+C:\Users\mahyo\source\repos\GameService\Game.Services\bin\Debug\net7.0\Game.Entities.dll
+C:\Users\mahyo\source\repos\GameService\Game.Services\bin\Debug\net7.0\Game.Application.pdb
+C:\Users\mahyo\source\repos\GameService\Game.Services\bin\Debug\net7.0\Game.Entities.pdb
+C:\Users\mahyo\source\repos\GameService\Game.Services\obj\Debug\net7.0\Game.Core.csproj.AssemblyReference.cache
+C:\Users\mahyo\source\repos\GameService\Game.Services\obj\Debug\net7.0\Game.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahyo\source\repos\GameService\Game.Services\obj\Debug\net7.0\Game.Core.AssemblyInfoInputs.cache
+C:\Users\mahyo\source\repos\GameService\Game.Services\obj\Debug\net7.0\Game.Core.AssemblyInfo.cs
+C:\Users\mahyo\source\repos\GameService\Game.Services\obj\Debug\net7.0\Game.Core.csproj.CoreCompileInputs.cache
+C:\Users\mahyo\source\repos\GameService\Game.Services\obj\Debug\net7.0\Game.Core.csproj.Up2Date
+C:\Users\mahyo\source\repos\GameService\Game.Services\obj\Debug\net7.0\Game.Core.dll
+C:\Users\mahyo\source\repos\GameService\Game.Services\obj\Debug\net7.0\refint\Game.Core.dll
+C:\Users\mahyo\source\repos\GameService\Game.Services\obj\Debug\net7.0\Game.Core.pdb
+C:\Users\mahyo\source\repos\GameService\Game.Services\obj\Debug\net7.0\ref\Game.Core.dll

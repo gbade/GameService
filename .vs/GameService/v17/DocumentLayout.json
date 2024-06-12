@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahyo\\source\\repos\\GameService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45981C6A-D29F-42BE-B7C8-19ED39F61E4F}|Game.Services\\Game.Core.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.services\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45981C6A-D29F-42BE-B7C8-19ED39F61E4F}|Game.Services\\Game.Core.csproj|solutionrelative:game.services\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C8BA9-F9A0-47E2-BF70-A4A52F8A4B6B}|Game.API\\Game.API.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.api\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C8BA9-F9A0-47E2-BF70-A4A52F8A4B6B}|Game.API\\Game.API.csproj|solutionrelative:game.api\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.application\\dtos\\gameresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|solutionrelative:game.application\\dtos\\gameresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C8BA9-F9A0-47E2-BF70-A4A52F8A4B6B}|Game.API\\Game.API.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F26C8BA9-F9A0-47E2-BF70-A4A52F8A4B6B}|Game.API\\Game.API.csproj|solutionrelative:game.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA69F55-9110-45F3-B277-B2B25192A7DB}|Game.Infrastructure\\Game.Infrastructure.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.infrastructure\\repositories\\scoreboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA69F55-9110-45F3-B277-B2B25192A7DB}|Game.Infrastructure\\Game.Infrastructure.csproj|solutionrelative:game.infrastructure\\repositories\\scoreboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45981C6A-D29F-42BE-B7C8-19ED39F61E4F}|Game.Services\\Game.Core.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.services\\services\\scoreboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45981C6A-D29F-42BE-B7C8-19ED39F61E4F}|Game.Services\\Game.Core.csproj|solutionrelative:game.services\\services\\scoreboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.application\\requests\\choicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|solutionrelative:game.application\\requests\\choicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.application\\dtos\\choicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|solutionrelative:game.application\\dtos\\choicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C8BA9-F9A0-47E2-BF70-A4A52F8A4B6B}|Game.API\\Game.API.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C8BA9-F9A0-47E2-BF70-A4A52F8A4B6B}|Game.API\\Game.API.csproj|solutionrelative:game.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA69F55-9110-45F3-B277-B2B25192A7DB}|Game.Infrastructure\\Game.Infrastructure.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.infrastructure\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA69F55-9110-45F3-B277-B2B25192A7DB}|Game.Infrastructure\\Game.Infrastructure.csproj|solutionrelative:game.infrastructure\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E587A3-5841-4242-BFFB-170B8A00F3FE}|Game.API.Controllers.Tests\\Game.API.Controllers.Tests.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.api.controllers.tests\\gamecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E587A3-5841-4242-BFFB-170B8A00F3FE}|Game.API.Controllers.Tests\\Game.API.Controllers.Tests.csproj|solutionrelative:game.api.controllers.tests\\gamecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C8BA9-F9A0-47E2-BF70-A4A52F8A4B6B}|Game.API\\Game.API.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.api\\controllers\\choicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C8BA9-F9A0-47E2-BF70-A4A52F8A4B6B}|Game.API\\Game.API.csproj|solutionrelative:game.api\\controllers\\choicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DC655C-9F86-407B-A4D9-68D5DF12D2C1}|Game.Infrastructure.Repositories.Test\\Game.Infrastructure.Repositories.Test.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.infrastructure.repositories.test\\repositories\\scoreboardrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DC655C-9F86-407B-A4D9-68D5DF12D2C1}|Game.Infrastructure.Repositories.Test\\Game.Infrastructure.Repositories.Test.csproj|solutionrelative:game.infrastructure.repositories.test\\repositories\\scoreboardrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DC655C-9F86-407B-A4D9-68D5DF12D2C1}|Game.Infrastructure.Repositories.Test\\Game.Infrastructure.Repositories.Test.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.infrastructure.repositories.test\\repositories\\gamerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DC655C-9F86-407B-A4D9-68D5DF12D2C1}|Game.Infrastructure.Repositories.Test\\Game.Infrastructure.Repositories.Test.csproj|solutionrelative:game.infrastructure.repositories.test\\repositories\\gamerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF50F49B-DA84-43B5-B64B-7BAA1B82D8D6}|Game.Core.Services.Tests\\Game.Core.Services.Tests.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.core.services.tests\\gameservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF50F49B-DA84-43B5-B64B-7BAA1B82D8D6}|Game.Core.Services.Tests\\Game.Core.Services.Tests.csproj|solutionrelative:game.core.services.tests\\gameservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.application\\interfaces\\repository\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|solutionrelative:game.application\\interfaces\\repository\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E587A3-5841-4242-BFFB-170B8A00F3FE}|Game.API.Controllers.Tests\\Game.API.Controllers.Tests.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.api.controllers.tests\\choicescontrolllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E587A3-5841-4242-BFFB-170B8A00F3FE}|Game.API.Controllers.Tests\\Game.API.Controllers.Tests.csproj|solutionrelative:game.api.controllers.tests\\choicescontrolllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF50F49B-DA84-43B5-B64B-7BAA1B82D8D6}|Game.Core.Services.Tests\\Game.Core.Services.Tests.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.core.services.tests\\scoreboardservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF50F49B-DA84-43B5-B64B-7BAA1B82D8D6}|Game.Core.Services.Tests\\Game.Core.Services.Tests.csproj|solutionrelative:game.core.services.tests\\scoreboardservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.application\\dtos\\scoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|solutionrelative:game.application\\dtos\\scoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6148DA7-AF4B-4E4F-8AF0-F4D46E9660F5}|Game.Entities\\Game.Entities.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.entities\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6148DA7-AF4B-4E4F-8AF0-F4D46E9660F5}|Game.Entities\\Game.Entities.csproj|solutionrelative:game.entities\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF50F49B-DA84-43B5-B64B-7BAA1B82D8D6}|Game.Core.Services.Tests\\Game.Core.Services.Tests.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.core.services.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF50F49B-DA84-43B5-B64B-7BAA1B82D8D6}|Game.Core.Services.Tests\\Game.Core.Services.Tests.csproj|solutionrelative:game.core.services.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6148DA7-AF4B-4E4F-8AF0-F4D46E9660F5}|Game.Entities\\Game.Entities.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6148DA7-AF4B-4E4F-8AF0-F4D46E9660F5}|Game.Entities\\Game.Entities.csproj|solutionrelative:game.entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.application\\interfaces\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|solutionrelative:game.application\\interfaces\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.application\\interfaces\\services\\iscoreboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|solutionrelative:game.application\\interfaces\\services\\iscoreboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|c:\\users\\mahyo\\source\\repos\\gameservice\\game.application\\interfaces\\repository\\iscoreboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0199E9-0A42-4090-9D33-552F241C1B93}|Game.Application\\Game.Application.csproj|solutionrelative:game.application\\interfaces\\repository\\iscoreboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Core.Services.Tests\\GameServiceTests.cs",
+              "RelativeDocumentMoniker": "Game.Core.Services.Tests\\GameServiceTests.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Core.Services.Tests\\GameServiceTests.cs",
+              "RelativeToolTip": "Game.Core.Services.Tests\\GameServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:09:03.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Infrastructure\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "Game.Infrastructure\\Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Infrastructure\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "Game.Infrastructure\\Repositories\\GameRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:10:31.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Services\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "Game.Services\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Services\\Services\\GameService.cs",
+              "RelativeToolTip": "Game.Services\\Services\\GameService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwDYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:56:03.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Game.API\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Game.API\\Controllers\\GameController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:01:07.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API\\Program.cs",
+              "RelativeDocumentMoniker": "Game.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API\\Program.cs",
+              "RelativeToolTip": "Game.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:59:55.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChoiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\DTOs\\ChoiceDto.cs",
+              "RelativeDocumentMoniker": "Game.Application\\DTOs\\ChoiceDto.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\DTOs\\ChoiceDto.cs",
+              "RelativeToolTip": "Game.Application\\DTOs\\ChoiceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:41:20.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreboardService.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Services\\Services\\ScoreboardService.cs",
+              "RelativeDocumentMoniker": "Game.Services\\Services\\ScoreboardService.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Services\\Services\\ScoreboardService.cs",
+              "RelativeToolTip": "Game.Services\\Services\\ScoreboardService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:57:45.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Game.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Game.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T10:56:36.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API.Controllers.Tests\\GameControllerTests.cs",
+              "RelativeDocumentMoniker": "Game.API.Controllers.Tests\\GameControllerTests.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API.Controllers.Tests\\GameControllerTests.cs",
+              "RelativeToolTip": "Game.API.Controllers.Tests\\GameControllerTests.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:55:44.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\DTOs\\GameResultDto.cs",
+              "RelativeDocumentMoniker": "Game.Application\\DTOs\\GameResultDto.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\DTOs\\GameResultDto.cs",
+              "RelativeToolTip": "Game.Application\\DTOs\\GameResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:42:12.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Infrastructure\\Repositories\\ScoreboardRepository.cs",
+              "RelativeDocumentMoniker": "Game.Infrastructure\\Repositories\\ScoreboardRepository.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Infrastructure\\Repositories\\ScoreboardRepository.cs",
+              "RelativeToolTip": "Game.Infrastructure\\Repositories\\ScoreboardRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:11:28.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChoiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\Requests\\ChoiceRequest.cs",
+              "RelativeDocumentMoniker": "Game.Application\\Requests\\ChoiceRequest.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\Requests\\ChoiceRequest.cs",
+              "RelativeToolTip": "Game.Application\\Requests\\ChoiceRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:52:50.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScoreboardRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Infrastructure.Repositories.Test\\Repositories\\ScoreboardRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Game.Infrastructure.Repositories.Test\\Repositories\\ScoreboardRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Infrastructure.Repositories.Test\\Repositories\\ScoreboardRepositoryTests.cs",
+              "RelativeToolTip": "Game.Infrastructure.Repositories.Test\\Repositories\\ScoreboardRepositoryTests.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:53:47.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChoicesController.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API\\Controllers\\ChoicesController.cs",
+              "RelativeDocumentMoniker": "Game.API\\Controllers\\ChoicesController.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API\\Controllers\\ChoicesController.cs",
+              "RelativeToolTip": "Game.API\\Controllers\\ChoicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:10:35.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Infrastructure.Repositories.Test\\Repositories\\GameRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Game.Infrastructure.Repositories.Test\\Repositories\\GameRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Infrastructure.Repositories.Test\\Repositories\\GameRepositoryTests.cs",
+              "RelativeToolTip": "Game.Infrastructure.Repositories.Test\\Repositories\\GameRepositoryTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:43:59.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScoreboardServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Core.Services.Tests\\ScoreboardServiceTests.cs",
+              "RelativeDocumentMoniker": "Game.Core.Services.Tests\\ScoreboardServiceTests.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Core.Services.Tests\\ScoreboardServiceTests.cs",
+              "RelativeToolTip": "Game.Core.Services.Tests\\ScoreboardServiceTests.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAgwEgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:32:00.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\Interfaces\\Repository\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "Game.Application\\Interfaces\\Repository\\IGameRepository.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\Interfaces\\Repository\\IGameRepository.cs",
+              "RelativeToolTip": "Game.Application\\Interfaces\\Repository\\IGameRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:08:18.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChoicesControlllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API.Controllers.Tests\\ChoicesControlllerTests.cs",
+              "RelativeDocumentMoniker": "Game.API.Controllers.Tests\\ChoicesControlllerTests.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.API.Controllers.Tests\\ChoicesControlllerTests.cs",
+              "RelativeToolTip": "Game.API.Controllers.Tests\\ChoicesControlllerTests.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:27:52.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\DTOs\\ScoreDto.cs",
+              "RelativeDocumentMoniker": "Game.Application\\DTOs\\ScoreDto.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\DTOs\\ScoreDto.cs",
+              "RelativeToolTip": "Game.Application\\DTOs\\ScoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:16.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Entities\\Game.cs",
+              "RelativeDocumentMoniker": "Game.Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Entities\\Game.cs",
+              "RelativeToolTip": "Game.Entities\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:18:08.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Entities\\Choice.cs",
+              "RelativeDocumentMoniker": "Game.Entities\\Choice.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Entities\\Choice.cs",
+              "RelativeToolTip": "Game.Entities\\Choice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:19:47.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Core.Services.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Game.Core.Services.Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Core.Services.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "Game.Core.Services.Tests\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:09:22.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\Interfaces\\Services\\IGameService.cs",
+              "RelativeDocumentMoniker": "Game.Application\\Interfaces\\Services\\IGameService.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\Interfaces\\Services\\IGameService.cs",
+              "RelativeToolTip": "Game.Application\\Interfaces\\Services\\IGameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:14:16.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IScoreboardService.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\Interfaces\\Services\\IScoreboardService.cs",
+              "RelativeDocumentMoniker": "Game.Application\\Interfaces\\Services\\IScoreboardService.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\Interfaces\\Services\\IScoreboardService.cs",
+              "RelativeToolTip": "Game.Application\\Interfaces\\Services\\IScoreboardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:30:42.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IScoreboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\Interfaces\\Repository\\IScoreboardRepository.cs",
+              "RelativeDocumentMoniker": "Game.Application\\Interfaces\\Repository\\IScoreboardRepository.cs",
+              "ToolTip": "C:\\Users\\mahyo\\source\\repos\\GameService\\Game.Application\\Interfaces\\Repository\\IScoreboardRepository.cs",
+              "RelativeToolTip": "Game.Application\\Interfaces\\Repository\\IScoreboardRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:36:44.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

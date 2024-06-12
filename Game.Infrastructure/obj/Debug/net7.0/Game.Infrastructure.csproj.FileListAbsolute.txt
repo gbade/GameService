@@ -1,0 +1,17 @@
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\bin\Debug\net7.0\Game.Infrastructure.deps.json
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\bin\Debug\net7.0\Game.Infrastructure.dll
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\bin\Debug\net7.0\Game.Infrastructure.pdb
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\bin\Debug\net7.0\Game.Application.dll
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\bin\Debug\net7.0\Game.Entities.dll
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\bin\Debug\net7.0\Game.Application.pdb
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\bin\Debug\net7.0\Game.Entities.pdb
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\obj\Debug\net7.0\Game.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\obj\Debug\net7.0\Game.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\obj\Debug\net7.0\Game.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\obj\Debug\net7.0\Game.Infrastructure.AssemblyInfo.cs
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\obj\Debug\net7.0\Game.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\obj\Debug\net7.0\Game.Inf.834E5F4C.Up2Date
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\obj\Debug\net7.0\Game.Infrastructure.dll
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\obj\Debug\net7.0\refint\Game.Infrastructure.dll
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\obj\Debug\net7.0\Game.Infrastructure.pdb
+C:\Users\mahyo\source\repos\GameService\Game.Infrastructure\obj\Debug\net7.0\ref\Game.Infrastructure.dll
