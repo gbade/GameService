@@ -1,11 +1,11 @@
-##Rock Paper Scissors Lizard Spock - Backend Service
+Rock Paper Scissors Lizard Spock - Backend Service
 
 This project is the backend implementation for the Rock Paper Scissors Lizard Spock game, using C# and .NET 7. The backend exposes RESTful APIs to manage game choices, play the game, and maintain a scoreboard.
 
 
 ##API Endpoints
 
-#Choices
+Choices
 ```sh
 GET /api/choices
 ```
@@ -16,13 +16,13 @@ GET /api/choice
 ```
 - Get a randomly generated choice.
 
-#Game
+Game
 ```sh
 POST /api/game/play
 ```
 - Play a round against a computer opponent.
 
-#Scoreboard
+Scoreboard
 ```sh
 GET /api/game/scores
 ```
